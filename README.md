@@ -8,4 +8,4 @@ R-Base
 # Contact Information
 Author: Jianfei Zhang
 
-E-mail: jianfei.zhang@usherbrooke.ca
+E-mail: jianfei.zhang@live.ca
